@@ -12,3 +12,5 @@ HTML ,CSS ,JAVASCRIPT, BOOTSTRAP
 - Then change the CSS using JavaScript.
 
 ![screenshot](preview%20(1).png)
+
+[Demo](https://rishikavishnoi.github.io/Text-Editor/)
