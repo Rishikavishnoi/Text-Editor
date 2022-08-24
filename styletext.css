@@ -39,7 +39,7 @@
     display: flex;
     justify-content: center;
 }
-textarea{
+.main-content textarea{
   width:100%;
   border:5px solid #987798;
 
