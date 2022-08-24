@@ -6,7 +6,9 @@ Simple Text Editor is a simple text editing project in JavaScript where we can m
 HTML ,CSS ,JAVASCRIPT, BOOTSTRAP
 
 ## Approach:
--Create buttons to perform operations on text in div.
--Create textarea in div using textarea tag.
--Select elements using document.getElementById method.
--Then change the CSS using JavaScript.
+- Create buttons to perform operations on text in div.
+- Create textarea in div using textarea tag.
+- Select elements using document.getElementById method.
+- Then change the CSS using JavaScript.
+
+![screenshot](preview%20(1).png)
