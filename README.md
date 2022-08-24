@@ -13,4 +13,4 @@ HTML ,CSS ,JAVASCRIPT, BOOTSTRAP
 
 ![screenshot](preview%20(1).png)
 
-[Demo](https://rishikavishnoi.github.io/Text-Editor/)
+## [Demo](https://rishikavishnoi.github.io/Text-Editor/)
